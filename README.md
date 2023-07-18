@@ -53,7 +53,7 @@ In this project the “Admin” has the following features:
 
 Design:
  
-
+<img src="img_for_readme/Picture1.png"> -->
 
 
 Tools Used:
