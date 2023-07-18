@@ -53,7 +53,7 @@ In this project the “Admin” has the following features:
 
 Design:
  
-<img src="img_for_readme/Picture1.png"> -->
+<img src="img_for_readme/Picture1.png">
 
 
 Tools Used:
@@ -74,37 +74,42 @@ To develop this project, we have used the following:
 
 System Images against the Specification:
 
- 
+ <img src="img_for_readme/Picture2.png">
 
 This is the homepage of Razer Store Bangladesh.
 
- 
+ <img src="img_for_readme/Picture3.png">
 
 User can login with proper and valid credentials to gain access.
 
- 
+ <img src="img_for_readme/Picture4.png">
 
 After logging in user can view the details of their profile.
 
- 
+ <img src="img_for_readme/Picture5.png">
 
 User can update his profile data after logging in.
 
+<img src="img_for_readme/Picture6.png">
  
 User can change their password via inserting previous password of their account. In this segment login to the account is required.
  
+ <img src="img_for_readme/Picture7.png">
+
 If the user forgets password, to gain access to the account password can be recovered by resetting.
 In this segment user needs to provide valid and proper credentials likely Username and previous password of the account.
 
- 
+ <img src="img_for_readme/Picture8.png">
 
 User can choose their desired products from the store which will automatically be added to the cart.
 N.B. User can’t add the same item more than once.
  
+<img src="img_for_readme/Picture9.png">
 
 In the cart user can select the quantity of their desired item and also can remove items. Grand total will generate automatically upon item price respected to its price. After selecting Payment Method User can proceed for checkout.
 
- 
+ <img src="img_for_readme/Picture10.png">
+
 Lastly after checkout, in this page user can see their Order history that was placed according to its order ID No#.
 
 Impact of this Project:
