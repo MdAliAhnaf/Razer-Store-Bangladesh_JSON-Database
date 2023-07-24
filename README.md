@@ -60,7 +60,7 @@ Design:
 
 Tools Used:
 
-To develop this project, we have used the following:
+To develop this project, I have used the following:
 
 •  ApacheFriends XAMPP Version 7.4.27	
 • Apache 2.4.52
